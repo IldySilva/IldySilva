@@ -1,3 +1,6 @@
+
+![IldySilva Githubg Stats](https://github-readme-stats.vercel.app/api?username=ildysilva&show_icons=true) 
+
 - 👋 Hi, I’m @IldySilva
 - I am developer with more than 3 years of experience working in the sector of software development. 
 - My work focuses on mobile applications (Flutter) and  APIRest (python,c# ) and database (Mysql, Postgres,Sql Server and firebase)
@@ -10,4 +13,3 @@
 - 💬 Ask me about [Mobile Development]  
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ildysilva&langs_count=10&theme=tokyonight)]()
-![IldySilva Githubg Stats](https://github-readme-stats.vercel.app/api?username=ildysilva&show_icons=true) 
