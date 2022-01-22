@@ -12,4 +12,4 @@
 
 - 💬 Ask me about [Mobile Development]  
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ildysilva&langs_count=10&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ildysilva&langs_count=3&theme=tokyonight)]()
