@@ -1,5 +1,5 @@
 
-![IldySilva Githubg Stats](https://github-readme-stats.vercel.app/api?username=ildysilva&show_icons=true) 
+![IldySilva Githubg Stats](https://github-readme-stats.vercel.app/api?username=ildysilva&show_icons=true&theme=tokyonight) 
 
 - 👋 Hi, I’m @IldySilva
 - I am developer with more than 3 years of experience working in the sector of software development. 
