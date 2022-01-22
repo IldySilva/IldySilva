@@ -1,5 +1,5 @@
 
-![IldySilva Githubg Stats](https://github-readme-stats.vercel.app/api?username=ildysilva&show_icons=true&theme=tokyonight) 
+
 
 - 👋 Hi, I’m @IldySilva
 - I am developer with more than 3 years of experience working in the sector of software development. 
@@ -12,4 +12,4 @@
 
 - 💬 Ask me about [Mobile Development]  
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ildysilva&langs_count=3&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ildysilva&langs_count=3&theme=tokyonight)]() ![IldySilva Githubg Stats](https://github-readme-stats.vercel.app/api?username=ildysilva&show_icons=true&theme=tokyonight) 
