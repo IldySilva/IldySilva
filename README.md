@@ -2,9 +2,9 @@
 
 
  <h1>👋 Hi, I’m @IldySilva</h1>
-- I am developer with more than 3 years of experience working in the sector of software development. 
-- My work focuses on mobile applications (Flutter) and  APIRest (python,c# ) ,for db i use database (Mysql, Postgres,Sql Server and google firebase)
-- 🔭 I’m currently working with [Flutter](https://flutter.dev) & C# at @Inokri
+- I am developer with more than 3 years of experience working in the sector of software development<br> 
+- My work focuses on mobile applications (Flutter) and  APIRest (python,c# ) ,<br> for db i use database (Mysql, Postgres,Sql Server and google firebase)<br>
+- 🔭 I’m currently working with [Flutter](https://flutter.dev) & C# at @Inokri <br>
 - 📲 I'm a Mobile developer since 2019
  <img align="right" width="150" height="150" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"> <img align="right" width="150" height="150" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
  
