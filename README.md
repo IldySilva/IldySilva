@@ -12,6 +12,6 @@
 
 - 💞️ I’m looking to collaborate on  Mobile Apps or Backend Apps
 
-- 💬 Ask me about [Music Production and Produtivity]  
+- 💬 Ask me about [Music Production]  
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ildysilva&langs_count=3&theme=tokyonight)]() ![IldySilva Githubg Stats](https://github-readme-stats.vercel.app/api?username=ildysilva&show_icons=true&theme=tokyonight) 
