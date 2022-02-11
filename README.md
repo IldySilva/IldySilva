@@ -22,7 +22,6 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="fltuter" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
 ## My Statistics
-
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
@@ -32,7 +31,7 @@
 </p>
 <br>
 
-[![Ildeberto Silva' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ildysilva&custom_title=ildysilva%20Trips's%20Contribution%20Graph&theme=algolia&bg_color=071e26&hide_border=true&line=d3eaf2&point=134b5f)]
+![Ildeberto Silva' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ildysilva&custom_title=ildysilva%20Trips's%20Contribution%20Graph&theme=algolia&bg_color=071e26&hide_border=true&line=d3eaf2&point=134b5f)]
 ------
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ildysilva&langs_count=3&theme=algolia)]
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ildysilva&langs_count=3&theme=algolia)
 
