@@ -14,4 +14,4 @@
 
 - 💬 Ask me about [Music Production]  
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ildysilva&langs_count=3&theme=tokyonight)]() ![IldySilva Githubg Stats](https://github-readme-stats.vercel.app/api?username=ildysilva&show_icons=true&theme=tokyonight) 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ildysilva&langs_count=3&theme=tokyonight)]() ![IldySilva Githubg Stats](https://github-readme-stats.vercel.app/api?username=ildysilva&show_icons=true&theme=prussian) 
