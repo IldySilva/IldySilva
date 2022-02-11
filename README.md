@@ -33,10 +33,6 @@
 <br>
 
 [![Ildeberto Silva' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ildysilva&custom_title=ildysilva%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
-
 ------
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ildysilva&langs_count=3&theme=algolia)]() 
 
-<br>
-<img align="right" width="60" height="60" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"> <img align="right" width="60" height="60" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> 
-<br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ildysilva&langs_count=3&theme=algolia)]() ![IldySilva Githubg Stats](https://github-readme-stats.vercel.app/api?username=ildysilva&show_icons=true&theme=algolia) 
