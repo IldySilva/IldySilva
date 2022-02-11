@@ -32,7 +32,7 @@
 </p>
 <br>
 
-[![Ildeberto Silva' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ildysilva&custom_title=ildysilva%20Trips's%20Contribution%20Graph&theme=algolia&bg_color=071e26&hide_border=true&line=7cc0d8&point=134b5f)](https://github.com/IldySilva/)
+[![Ildeberto Silva' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ildysilva&custom_title=ildysilva%20Trips's%20Contribution%20Graph&theme=algolia&bg_color=071e26&hide_border=true&line=d3eaf2&point=134b5f)](https://github.com/IldySilva/)
 ------
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ildysilva&langs_count=3&theme=algolia)]() 
 
