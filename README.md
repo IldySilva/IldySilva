@@ -8,12 +8,19 @@
 - 🔭 I’m currently working with Flutter & C# at @Inokri <br>
 - 📲 I'm a Mobile developer since 2019
  
- 
 - 🌱 I’m currently learning  [Python](https://www.python.org/) & [PostgresSQL](https://www.postgresql.org/)
 
 - 💞️ I’m looking to collaborate on  Mobile Apps or Backend Apps
 
 - 💬 Ask me about [Music Production]  
+ <p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+</div>
+</p>
+
 ## My Statistics
 
 <br/>
