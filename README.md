@@ -16,6 +16,6 @@
 - 💬 Ask me about [Music Production]  
  <h2>Languages & tools</h2>
 <br>
-<div><img align="right" width="60" height="60" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"> <img align="right" width="60" height="60" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></div>
+<img align="right" width="60" height="60" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"> <img align="right" width="60" height="60" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> 
 <br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ildysilva&langs_count=3&theme=algolia)]() ![IldySilva Githubg Stats](https://github-readme-stats.vercel.app/api?username=ildysilva&show_icons=true&theme=algolia) 
