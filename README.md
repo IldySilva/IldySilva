@@ -26,13 +26,13 @@
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ildysilva&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ildysilva&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ildysilva&show_icons=true&theme=algolia&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ildysilva&theme=algolia&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Ildeberto Silva' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ildysilva&custom_title=ildysilva%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Ildeberto Silva' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ildysilva&custom_title=ildysilva%20Trips's%20Contribution%20Graph&theme=algolia&bg_color=071e26&hide_border=true&line=ffffff&point=c58545)](https://github.com/IldySilva/)
 ------
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ildysilva&langs_count=3&theme=algolia)]() 
 
