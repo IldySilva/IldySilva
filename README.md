@@ -7,7 +7,6 @@
 - 🔭 I’m currently working with Flutter & C# at @Inokri <br>
 - 💞️ I’m looking to collaborate on  any open source mobile app
 - 💬 Ask me about [Music Production]  
-- 
  <p>
 <div align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
