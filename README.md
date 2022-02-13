@@ -5,7 +5,7 @@
 🟢 I am developer with more than 3 years of experience working in the sector of software development<br> 
 ⚪ My work focuses on mobile applications and  APIRest <br>
 🔵 🔭 I’m currently working with Flutter & C# at @Inokri <br>
-🟣 💞️ I’m looking to collaborate on  any open source mobile app<br>
+🟣 💞️ I’m looking to collaborate on  any open source dart or python app<br>
 🔴 💬 Ask me about [Music Production]  
  <p>
 <div align="center">
