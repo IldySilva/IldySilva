@@ -4,7 +4,7 @@
  <h1>👊🏾 Hi, I’m @IldySilva</h1>
 🟢 I am developer with more than 3 years of experience working in the sector of software development<br> 
 ⚪ My work focuses on mobile applications and  APIRest <br>
-🔵 🔭 I’m currently working with Angular ,Flutter & C# at @Kiamisoft   as Full Stack Developer <br>
+🔵 🔭 I’m currently working with Angular ,Flutter & C# at @IS4-S   as Full Stack Developer <br>
 🟣 💞️ I’m looking to collaborate on  any open source dart or python app<br>
 🔴 💬 Ask me about [Music Production]  
  <p>
