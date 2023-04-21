@@ -23,7 +23,7 @@
 <h2> My Statistics</h2>
 <br/>
 <p align="left">
-  <a href="https://ildeberto.vercel.app/">
+  <a href="https://ildeberto.com/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ildysilva&show_icons=true&theme=algolia&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ildysilva&theme=algolia&hide_border=true" />
   </a>
