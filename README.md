@@ -3,7 +3,6 @@
 
  <h1>👊🏾 Hi, I’m @IldySilva</h1>
 🟢 I am developer with more than 3 years of experience working with software development<br> 
-⚪ My work focuses on mobile applications and  Rest APIS <br>
 🔵 🔭 I’m currently working with Flutter & C# at @IS4-S   as Mobile Developer <br>
 🟣 💞️ I’m looking to collaborate on  any open source dart or python app<br>
 🔴 💬 Ask me about [Music Production]  
