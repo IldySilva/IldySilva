@@ -6,7 +6,7 @@ A Software Engineer , passionate about crafting beautiful and performatic apps,
 - 🌱 I’m looking to promote Mobile Apps Development  in my community
 - ⚡ Currently working on  [Youtube](https://www.youtube.com/channel/UCGt-woiDA7FCXU7vn5Ivkig) and [Articles](https://medium.com/@ildysilva/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ildeberto-vasconcelos/)
-- 💬 Ask me about anything [Flutter](flutter.dev) 💙
+- 💬 Ask me  anything about [Flutter](flutter.dev)💙 or [.NET C#](https://dotnet.microsoft.com/en-us/languages/csharp)
 - 😄 Fun fact: Don't Like Coffee & I'm Beatmaker also
 - 🌐 Portuguese,English
 
