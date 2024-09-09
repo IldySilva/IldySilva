@@ -1,6 +1,6 @@
 
 # 👊🏾 Hi, I’m Ildeberto
-A Software Engineer , passionate about crafting beautiful and performatic apps, 
+A Software Engineer , crafting beautiful and performatic apps, 
 
 - 🔭 Software Engineer at [Equilibrium](https://www.equilibrium.co.ao/) , ex [IS4 Solutions](https://is4-s.com/),
 - 🌱 I’m looking to promote Mobile Apps Development  in my community
