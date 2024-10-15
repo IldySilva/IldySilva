@@ -3,7 +3,7 @@
 A Software Engineer , crafting beautiful and performatic apps, 
 
 - 🔭 Software Engineer at [Equilibrium](https://www.equilibrium.co.ao/)
-- 🌱 I’m looking to promote Mobile Apps Development  in my community
+- 🌱 I’m looking to promote Open Source development  in my community
 - ⚡ Currently working on  [Youtube](https://www.youtube.com/channel/UCGt-woiDA7FCXU7vn5Ivkig) and [Articles](https://medium.com/@ildysilva/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ildeberto-vasconcelos/)
 - 💬 Ask me  anything about [Flutter](flutter.dev)💙 or [.NET C#](https://dotnet.microsoft.com/en-us/languages/csharp)
